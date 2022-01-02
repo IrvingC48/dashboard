@@ -49,7 +49,7 @@ En este repositorio se encuentra distribuido el desarrollo de la aplicación, en
 
 ***
 ## Instrucciones:
-Para este repositorio desplegado en _Github Pages_, se debe ir a la url [correspondiente]().
+Para este repositorio desplegado en _Github Pages_, se debe ir a la url [correspondiente](https://irvingc48.github.io/dashboard/).
 
 1. Seleccione la _Fecha Inicio_, _Fecha Fin_, _Pais_ y dar clic en el botón __Consultar__       
 
